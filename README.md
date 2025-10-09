@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm a third year Computer Science student at McMaster University, where I also play varsity soccer. I have internship and project experience in Corporate Security, Data Science, and Backend Development
+I'm a third year Computer Science student at Florida International University, where I also play varsity soccer (NCAA D1). I have internship and project experience in Corporate Security, Data Science, Data Engineering, and Backend Development
 
 
 ## 🌐 Socials:
